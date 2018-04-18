@@ -1,6 +1,6 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: page
+title: Influential people
+excerpt: "A List of influential people"
 comments: false
 ---
