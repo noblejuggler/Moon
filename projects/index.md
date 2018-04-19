@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Influential people
 excerpt: "A List of influential people"
 comments: false
