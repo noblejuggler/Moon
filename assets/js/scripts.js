@@ -34,7 +34,7 @@ $(document).ready(function() {
         bottomOffset: 10,
         locationOffset: 20,
         containerRadius: 0,
-        containerColor: '#B6FF00',
+        containerColor: '#fff',
         arrowColor: '#000',
         goupSpeed: 'normal'
     });
