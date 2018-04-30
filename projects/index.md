@@ -5,12 +5,12 @@ excerpt: "A List of influential people"
 comments: false
 ---
 
-## Author bio
-three dudes
+# Author bio
+
 
 ## other things related to author
 aone kjne
 
 ## cultural background
-he said that
-> tnijtn
+These people grew up in the projects in new jersey
+
