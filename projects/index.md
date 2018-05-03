@@ -6,7 +6,7 @@ comments: false
 ---
 
 # Author bio
-<figure class="half">
+<figure class="">
     <a href="/images/ott.jpg"><img src="/images/ott.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
