@@ -6,7 +6,10 @@ comments: false
 ---
 
 # Author bio
-
+<figure class="half">
+    <a href="/images/ott.jpg"><img src="/images/ott.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
 
 ## other things related to author
 aone kjne
