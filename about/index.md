@@ -11,7 +11,7 @@ comments: false
 # Sam breaks his foot
 In the begining of the book sam goes with his brother to a place where he breaks his foot when carying a piece of concreat
 # x-ray
-somfin happend today
+When they go to the hospital sam sees a x-ray machine and gets interested in the medical field
 # Three
 ijwndc
 # Four
