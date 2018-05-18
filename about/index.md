@@ -24,9 +24,9 @@ George and Sampson meet for the first time during test then George and Sampson m
 They decide a career in Medicine may be in their future
 # Eight
 iug
-# Nine
-ujgc
-# Ten
-ihy
-# eleven
-ihy
+# Rameck is bad boy
+Rameck beats up/stabs crackhead and goes to jail during Thanksgiving but is luck and released
+# sam is arrested
+Sampson is arrested for armed robbery and has to go to J.V. then is put on probation
+# Dream come true
+All the boys are accepted to Seton Hall
