@@ -10,36 +10,23 @@ comments: false
 
 # Sam breaks his foot
 In the begining of the book sam goes with his brother to a place where he breaks his foot when carying a piece of concreat
-
 # x-ray
 somfin happend today
-
-# p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p-p
-ijcdw
-
 # Three
 ijwndc
-
 # Four
 kgiugj
-
 # Sampson sees his friend die
 Sampson sees his friend Razor die.
-
-# Six
+# el meet
 George and Sampson meet for the first time during test then George and Sampson meet Rameck for the first time.
-
-# Seven
+# el pact
 They decide a career in Medicine may be in their future
-
 # Eight
 iug
-
 # Nine
 ujgc
-
 # Ten
 ihy
-
 # eleven
 ihy
